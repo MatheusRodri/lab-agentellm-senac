@@ -7,8 +7,8 @@ Este é o único exercício da disciplina **sem código**. Não é por ser mais 
 Vocês vão **escolher o tema do trabalho da disciplina**. O que sair daqui é o sistema que vocês vão construir até o fim do semestre, em três entregas.
 
 > **Leiam antes:**
-> - [Visão geral do trabalho](../../../trabalho/00-visao-geral.md) — o que é, as três partes, as regras
-> - [Enunciado da Parte 1](../../../trabalho/01-primeira-entrega.md) — o que a primeira entrega cobra
+> - [Visão geral do trabalho](../../trabalho/00-visao-geral.md) — o que é, as três partes, as regras
+> - [Enunciado da Parte 1](../../trabalho/01-primeira-entrega.md) — o que a primeira entrega cobra
 >
 > Este exercício é o **começo da Parte 1**. O que vocês produzirem aqui vira o `docs/case.md` do trabalho — não é um documento descartável.
 
