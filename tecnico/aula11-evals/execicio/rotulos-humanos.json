@@ -1,0 +1,6 @@
+{
+  "instrucoes": "Copiar 30 saídas reais variadas, preencher humano e nota_humana manualmente antes de chamar juiz.py. Não usar exemplos inventados como evidência de concordância.",
+  "rubrica": "1.0.0",
+  "limiar_adocao_declarado": 0.85,
+  "casos": []
+}
